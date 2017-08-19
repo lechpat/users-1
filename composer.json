@@ -28,7 +28,7 @@
     },
     "require": {
         "cakephp/cakephp": "~3.5.0",
-        "lechpat/auth": "^1.0"
+        "lechpat/auth": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.0",
